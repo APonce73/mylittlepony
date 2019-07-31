@@ -7,9 +7,7 @@ output:
     keep_md: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 Para lograrlo se tiene que hacer lo siguiente:
 * ir a la pestaña del Git
